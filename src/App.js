@@ -125,7 +125,7 @@ const App = () => {
           <div className="d-flex justify-content-center align-items-center">
             <img
               src="/image.svg"
-              alt="image"
+              alt="just-gambar"
               style={{
                 objectFit: "scale-down",
                 width: "15rem",
