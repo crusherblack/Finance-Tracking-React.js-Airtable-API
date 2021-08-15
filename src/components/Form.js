@@ -43,7 +43,7 @@ const Form = ({ addData, postLoading }) => {
     type === "Expense" ? "Pengeluaran" : type === "Income" ? "Pemasukan" : "";
 
   return (
-    <div className="col-4">
+    <div className="col-md-4 ">
       <form className="px-2 py-2" onSubmit={onSubmit}>
         <div className="form-group mb-1">
           <label>Pilih Tipe</label>

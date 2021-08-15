@@ -133,7 +133,7 @@ const App = () => {
             />
           </div>
         </div>
-        <div className="row mt-3">
+        <div className="row mt-3 ">
           <List
             data={data}
             type="income"

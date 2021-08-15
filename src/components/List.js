@@ -13,7 +13,7 @@ const List = (props) => {
 
   return (
     <div
-      className={`col-4 bg-${props.bg} px-3 py-3`}
+      className={`col-md-4 bg-${props.bg} px-3 py-3 `}
       style={{
         borderRadius: "5px",
       }}
