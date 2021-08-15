@@ -115,7 +115,7 @@ const App = () => {
     <div
       className="d-flex justify-content-center align-items-center"
       style={{
-        height: "100vh",
+        minHeight: "100vh",
       }}
     >
       <div className="container text-white">
